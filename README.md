@@ -1,5 +1,3 @@
 # Brix
 
-Brix is simple project that will try to recreate Brick Breaker game.
-The idea for the project came from web site GeeksForGeeks where they proposed this project for beginers.
-As they proposed, the game will be fully implemented in Java and it will use libGDX framework for graphics.
+"Brix" is a simple project that aims to recreate the Brick Breaker game. The idea for this project was inspired by the website GeeksForGeeks, which recommended it as a beginner-friendly project. The game will be implemented entirely in Java and will utilize the libGDX framework for handling graphics.
