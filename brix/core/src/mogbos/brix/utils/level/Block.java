@@ -29,6 +29,14 @@ public class Block {
         this.stamina = stamina;
     }
 
+    public int getX() {
+        return 10 + ((column-1) * 75);
+    }
+
+    public int getY() {
+        return 720 - 495 + ((10-row) * 45);
+    }
+
     @Override
     public String toString() {
         return "Block [Row: " + row + ", Column: " + column + ", Stamina: " + stamina + "]";
